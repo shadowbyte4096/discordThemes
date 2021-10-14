@@ -8,8 +8,8 @@
   --success-color: #43b581;
   --danger-color: #982929;
   --channel-unread: var(--main-color);
-  --channel-color: rgba(255,255,255,0.3);
-  --muted-color: rgba(255,255,255,0.1);
+  --channel-color: rgba(255,255,255,0.6);
+  --muted-color: rgba(255,255,255,0.3);
   --channel-text-selected: #fff;
   --url-color: var(--main-color);
   --online-color: #43b581;
@@ -1221,13 +1221,13 @@ textarea,
   transition: all 0.5s ease-in-out;
 }
 .container-3baos1:before {
-  content: "BLurryVision";
+  content: "";
   right: 50%;
   text-align: right;
   transform: translateX(50%);
 }
 .container-3baos1:after {
-  content: "v999999";
+  content: "";
   left: 50%;
   text-align: left;
   opacity: 0;
