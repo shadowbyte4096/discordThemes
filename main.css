@@ -3370,7 +3370,7 @@ code {
           backface-visibility: hidden;
 }
 .members-1998pB .member-3-YXUe.offline-3nJYBR .avatar-3uk_u9 {
-  filter: grayscale(100%) blur(1px) brightness(200%);
+  filter: grayscale(100%) blur(1px);
   transition: all 0.5s ease-in-out;
 }
 .members-1998pB .member-3-YXUe.offline-3nJYBR:hover .avatar-3uk_u9 {
@@ -3440,7 +3440,7 @@ code {
   align-items: center;
   justify-content: center;
   flex-basis: 50%;
-  color: rgba(255, 255, 255, 0.3);
+  color: rgba(255, 255, 255, 0.6);
 }
 .members-1998pB .memberGroupsPlaceholder-3mwPub:before, .members-1998pB .memberGroupsPlaceholder-3mwPub:after {
   content: "";
