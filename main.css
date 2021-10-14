@@ -8,8 +8,8 @@
   --success-color: #43b581;
   --danger-color: #982929;
   --channel-unread: var(--main-color);
-  --channel-color: rgba(255,255,255,0.6);
-  --muted-color: rgba(255,255,255,0.3);
+  --channel-color: rgba(255,255,255,0.8);
+  --muted-color: rgba(255,255,255,0.5);
   --channel-text-selected: #fff;
   --url-color: var(--main-color);
   --online-color: #43b581;
