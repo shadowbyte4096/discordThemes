@@ -3441,7 +3441,7 @@ code {
   align-items: center;
   justify-content: center;
   flex-basis: 50%;
-  color: rgba(255, 255, 255, 0.3);
+  color: rgba(255, 255, 255, 0.9);
 }
 .members-1998pB .memberGroupsPlaceholder-3mwPub:before, .members-1998pB .memberGroupsPlaceholder-3mwPub:after {
   content: "";
@@ -3462,7 +3462,7 @@ code {
 .members-1998pB .placeholderAvatar-damqh6,
 .members-1998pB .placeholderUsername-2B_OA9,
 .members-1998pB .mulitplePlaceholderUsername-pogq9I {
-  background: rgba(255, 255, 255, 0.3);
+  background: rgba(255, 255, 255, 0.7);
 }
 
 .addMembersIcon-1Bz_VS {
