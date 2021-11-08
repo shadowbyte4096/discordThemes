@@ -3411,7 +3411,7 @@ code {
 
 .members-1998pB {
   width: var(--members-width);
-  background: rgba(0, 0, 0, calc(var(--background-shading) * .01));
+  background: rgba(0, 0, 0, calc(var(--background-shading) * .6));
 }
 .members-1998pB > div {
   background-color: transparent;
@@ -3427,7 +3427,7 @@ code {
   font-weight: 700;
   text-align: center;
   transition: all 0.15s ease-in-out;
-  opacity: 0.85;
+  opacity: 0.01;
 }
 .members-1998pB .membersGroup-v9BXpm:hover {
   opacity: 1;
