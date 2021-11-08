@@ -3411,7 +3411,7 @@ code {
 
 .members-1998pB {
   width: var(--members-width);
-  background: rgba(0, 0, 0, calc(var(--background-shading) * .6));
+  background: rgba(0, 0, 0, calc(var(--background-shading) * .01));
 }
 .members-1998pB > div {
   background-color: transparent;
