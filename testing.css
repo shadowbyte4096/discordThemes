@@ -3427,7 +3427,7 @@ code {
   font-weight: 700;
   text-align: center;
   transition: all 0.15s ease-in-out;
-  opacity: 0.01;
+  opacity: 0.85;
 }
 .members-1998pB .membersGroup-v9BXpm:hover {
   opacity: 1;
